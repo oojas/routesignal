@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804281189306",
+    "project_id": "samsung-41947",
+    "storage_bucket": "samsung-41947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804281189306:android:c2c1fb9cff38d8d0911383",
+        "android_client_info": {
+          "package_name": "com.example.routeSignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804281189306-vgfc1jr7t5tv5h6r2r5am2nei9u2shl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNkhOe_9BjJeNGTGsii8OrZsI0n8Wmj9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804281189306-vgfc1jr7t5tv5h6r2r5am2nei9u2shl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
